@@ -1,0 +1,8 @@
+inicio
+  string saludo := "Hola\nMundo";
+  string tabulada := "Nombre:\tJuan";
+
+  escribir(saludo);     
+  escribir(tabulada);   
+
+fin

@@ -1,0 +1,10 @@
+inicio
+  int var1 := 2;
+  int var2 := 4;
+  escribir ( var1, var1 + var2 );
+
+  string var3 := "Hola ";
+  string var4 := "Mundo";
+  escribir ( var1, var2, var3, var4, var3 + var4 );
+
+fin

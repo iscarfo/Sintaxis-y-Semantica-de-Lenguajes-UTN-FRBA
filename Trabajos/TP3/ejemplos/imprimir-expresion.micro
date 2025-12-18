@@ -1,0 +1,7 @@
+inicio
+  escribir ( 5 );
+  int holo;
+  holo := 2;
+  escribir ( holo );
+  escribir (3 + 2 - 1);
+fin

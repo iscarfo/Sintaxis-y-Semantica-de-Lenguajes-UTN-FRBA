@@ -1,0 +1,10 @@
+inicio
+    string x;
+    int y;
+    
+    leer(x);
+    leer(y);
+
+    escribir(x);
+    escribir(y);
+fin

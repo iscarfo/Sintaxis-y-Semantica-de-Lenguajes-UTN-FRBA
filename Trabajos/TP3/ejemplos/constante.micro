@@ -1,0 +1,5 @@
+inicio
+  const string hola := "hola";
+  const int chao := 1;
+  escribir ( hola, chao );
+fin

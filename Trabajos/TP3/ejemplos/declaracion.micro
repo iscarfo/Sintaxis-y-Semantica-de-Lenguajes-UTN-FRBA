@@ -1,0 +1,16 @@
+inicio
+  int var1;
+  var1 := 2;
+  escribir ( var1 );
+
+  string var2;
+  var2 := "Hola Mundo";
+  escribir ( var2 );
+
+  int var3 := 4;
+  escribir(var3);
+
+  string var4 := "Denuevo Hola" + var2;
+  escribir ( var4 );
+
+fin

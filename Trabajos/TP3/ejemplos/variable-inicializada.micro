@@ -1,0 +1,12 @@
+inicio
+  int inicializada := 0;
+  int asignada;
+  int escrita;
+
+  asignada:= 1;
+
+  leer ( escrita );
+
+  escribir( inicializada, asignada, escrita );
+  escribir( "suma: ", inicializada + asignada + escrita );
+fin

@@ -1,0 +1,12 @@
+inicio
+  int num := 10;
+  string saludo := "Hola";
+
+  num := num + 5;
+  saludo := saludo + " Mundo";
+  
+  escribir(num);        
+  escribir(saludo); 
+
+  escribir(num, saludo);        
+fin

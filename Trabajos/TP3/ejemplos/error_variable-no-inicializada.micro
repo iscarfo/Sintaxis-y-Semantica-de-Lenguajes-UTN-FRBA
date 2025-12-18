@@ -1,0 +1,5 @@
+inicio
+  string hola := "hola";
+  int chao;
+  escribir ( hola, chao );
+fin

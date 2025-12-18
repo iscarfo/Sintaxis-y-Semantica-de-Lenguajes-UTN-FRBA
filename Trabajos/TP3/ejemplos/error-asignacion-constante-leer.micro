@@ -1,0 +1,4 @@
+inicio
+  const string hola := "hola";
+  leer ( hola );
+fin
